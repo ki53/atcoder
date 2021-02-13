@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 
+// https://atcoder.jp/contests/arc031/tasks/arc031_2
+
 // using
 using namespace std;
 using P = pair<int, int>;
