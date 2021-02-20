@@ -8,6 +8,7 @@ using ull = unsigned long long;
 
 // def
 #define rep(i, n) for (int i = 0; i < (n); ++i)
+#define sz(x) int(x.size())
 
 // tool functions 
 template<class T> inline bool chmin(T& a, T b) {if (a > b) {a = b; return true; } return false;}
